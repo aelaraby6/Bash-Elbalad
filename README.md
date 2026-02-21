@@ -7,12 +7,12 @@ Now finally, we can fight using owr own commands along **El-7ag Ebrahim Semple**
 
 ![image](assets/test.png)
 
-## 🤝 Collaboration
+## Collaboration
 
 This project was brought to life in collaboration with [@aelaraby6](https://github.com/aelaraby6). Working together, we not only built a functional shell but also gained invaluable experience in teamwork, communication, and problem-solving.
 
 
-## ⚡ Features
+## Features
 
 ### **Core Functionality**
 - **Core Shell Functions**: Custom prompt, command execution, history tracking, and arrow key navigation.  
@@ -20,7 +20,7 @@ This project was brought to life in collaboration with [@aelaraby6](https://gith
 - **Command Composition**: Supports redirection (`>`), and multiple commands (`;`).  
 
 
-## 🛠️ Project Setup
+## Project Setup
 
 Clone the repo, compile, and let the shell magic begin:
 
@@ -39,7 +39,7 @@ make
 ./Bash_Elbalad
 ```
 
-## 📂 Project Structure
+## Project Structure
 ```
 Bash-Elbalad/
 ├── command.h             # Command execution logic
@@ -51,6 +51,6 @@ Bash-Elbalad/
 ├── README.md             # Project documentation
 ```
 
-## 📝 Todo
+## Todo
 
 Check out our [TODO.md](TODO.md).
